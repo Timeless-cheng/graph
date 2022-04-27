@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/models/DGI" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/Graph AutoEncoder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/diffpool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/powerful-gnns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/ppnp" vcs="Git" />
+  </component>
+</project>
